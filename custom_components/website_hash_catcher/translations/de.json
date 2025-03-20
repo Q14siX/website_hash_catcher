@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Website Hash Catcher einrichten",
+        "description": "Gib die Details ein, um den Hash-Wert einer Webseite zu überwachen.",
+        "data": {
+          "name": "Name der Integration",
+          "url": "Webseiten-URL",
+          "interval": "Aktualisierungsintervall (Sekunden)",
+          "hash_type": "Hash-Algorithmus"
+        }
+      }
+    }
+  },
+  "selector": {
+    "hash_type": {
+      "sha256": "SHA-256",
+      "sha1": "SHA-1",
+      "md5": "MD5"
+    }
+  },
+  "title": "Website Hash Catcher"
+}

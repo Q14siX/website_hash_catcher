@@ -1,0 +1,13 @@
+{
+  "domain": "website_hash_catcher",
+  "name": "Website Hash Catcher",
+  "version": "20250320.0900",
+  "documentation": "https://github.com/Q14siX/website_hash_catcher",  
+  "issue_tracker": "https://github.com/Q14siX/website_hash_catcher/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@Q14siX"],
+  "config_flow": true,
+  "iot_class": "cloud_push",
+  "icon": "icon.png"
+}
